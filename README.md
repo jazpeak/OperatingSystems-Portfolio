@@ -27,6 +27,11 @@ A lightweight interactive Unix shell environment built from scratch.
 - **Core Focus**: Process Forking (`fork`, `execvp`), Pipe Redirection (`dup2`).
 - **Highlights**: Natively parses and executes arbitrary pipelines of commands, tracking execution duration and process IDs for every pipeline stage, while safely handling terminal interrupts.
 
+### 5. [SimpleMultithreader: C++11 Concurrency Library](./SimpleMultithreader)
+A lightweight, header-only multithreading library abstracting POSIX threads.
+- **Core Focus**: POSIX Threads (`pthread`), C++11 Lambdas, Iteration Chunking.
+- **Highlights**: Dynamically distributes arbitrary 1D and 2D iteration workloads across `numThreads` by hooking C++11 lambda functions into bare-metal `pthread_create` calls without thread pools, and features native microsecond execution profiling.
+
 ---
 
 ## Core Technical Competencies
