@@ -10,3 +10,6 @@
 [submodule "SimpleMultithreader"]
 	path = SimpleMultithreader
 	url = https://github.com/jazpeak/SimpleMultithreader
+[submodule "SimpleScheduler"]
+	path = SimpleScheduler
+	url = https://github.com/jazpeak/SimpleScheduler
