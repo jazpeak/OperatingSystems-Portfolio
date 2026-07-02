@@ -1,0 +1,3 @@
+[submodule "egos-mlfq-implementation"]
+	path = egos-mlfq-implementation
+	url = https://github.com/jazpeak/egos-mlfq-implementation
