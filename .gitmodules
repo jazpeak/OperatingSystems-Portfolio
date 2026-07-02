@@ -1,3 +1,9 @@
 [submodule "egos-mlfq-implementation"]
 	path = egos-mlfq-implementation
 	url = https://github.com/jazpeak/egos-mlfq-implementation
+[submodule "SmartELFLoader"]
+	path = SmartELFLoader
+	url = https://github.com/jazpeak/SmartELFLoader
+[submodule "Simple-Shell-program"]
+	path = Simple-Shell-program
+	url = https://github.com/jazpeak/Simple-Shell-program
