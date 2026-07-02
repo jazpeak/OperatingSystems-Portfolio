@@ -7,7 +7,7 @@ This repository serves as a centralized index for my Operating Systems projects.
 
 ## Featured Implementations
 
-### 1. [SimpleOS: MLFQ Scheduler & Custom Shell](https://github.com/jazpeak/egos-mlfq-implementation)
+### 1. [EGOS MLFQ Scheduler & Custom Shell](https://github.com/jazpeak/egos-mlfq-implementation)
 An enhanced version of the EGOS-2000 teaching OS natively running on the RISC-V architecture. 
 - **Core Focus**: Kernel space programming, Process Control Blocks (PCBs), Timer Interrupts.
 - **Highlights**: Implemented a robust Multi-Level Feedback Queue (MLFQ) preemptive scheduler in the kernel layer to optimize CPU responsiveness, alongside POSIX-like user shell commands (`grep`, `wcl`) built entirely from scratch using raw inode and block reading.
