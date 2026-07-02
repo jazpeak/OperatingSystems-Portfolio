@@ -7,3 +7,6 @@
 [submodule "Simple-Shell-program"]
 	path = Simple-Shell-program
 	url = https://github.com/jazpeak/Simple-Shell-program
+[submodule "SimpleMultithreader"]
+	path = SimpleMultithreader
+	url = https://github.com/jazpeak/SimpleMultithreader
