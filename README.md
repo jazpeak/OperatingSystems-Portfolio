@@ -1,5 +1,5 @@
 ## Credits
-**These Projects were worked on by Jazl Anwar ONLY**
+**These Projects were worked on by Jazl Anwar ONLY**. Contact me @ jazl24283@gmail.com
 # Operating Systems Portfolio
 > A collection of systems engineering projects built to explore the internals of modern Operating Systems.
 
