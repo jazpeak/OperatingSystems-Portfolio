@@ -1,3 +1,5 @@
+## Credits
+**These Projects were worked on by Jazl Anwar ONLY**
 # Operating Systems Portfolio
 > A collection of systems engineering projects built to explore the internals of modern Operating Systems.
 
