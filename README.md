@@ -1,5 +1,10 @@
-## Credits
-**These Projects were worked on by Jazl Anwar ONLY**. Contact me @ jazl24283@gmail.com
+## Author
+
+**Jazl Anwar Mundam Valappil**
+- GitHub: [@jazpeak](https://github.com/jazpeak)
+- LinkedIn: [Jazl Anwar](https://www.linkedin.com/in/jazlanwar/)
+- Email: jazl24283@iiitd.ac.in
+- Number: +91 8129441888
 # Operating Systems Portfolio
 > A collection of systems engineering projects built to explore the internals of modern Operating Systems.
 
