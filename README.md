@@ -44,6 +44,6 @@ A lightweight, header-only multithreading library abstracting POSIX threads.
 ## Core Technical Competencies
 
 By completing these projects, I have developed hands-on experience with:
-- **Languages**: C, RISC-V Assembly, Bash
+- **Languages**: C, C++, RISC-V Assembly, Bash
 - **Concepts**: Preemptive Scheduling, Context Switching, Inter-Process Communication, Memory Paging, File System Architectures.
 - **Tools**: GDB, QEMU Emulators, GNU Make, GCC Cross-Compilers.
